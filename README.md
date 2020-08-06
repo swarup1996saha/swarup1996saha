@@ -6,8 +6,8 @@
 <a href="https://www.instagram.com/ii_swarup/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40" /></a>
 <a href="https://t.me/swarup1996saha"><img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" width="40" /></a>
 #
-### I'm a Student, Web Developer 🤖
-<img align="right" height="180" width="290" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
+
+<img align="right" height="186" width="300" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
 ### About Me:-
 I'm a Web Developer 🤖 with a passion for Front-end Development, Design and Back-end Development. I'm currently a final year student 🎓 pursuing a master degree in Information Technology. I am an enthusiastic learner and believe in working hard and enjoying life too.
