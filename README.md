@@ -18,4 +18,5 @@ I'm a Web Developer 🤖 with a passion for Front-end Development, Design and Ba
 - 🤔 I’m looking for help with ***Human Activity Recognition Model.***
 - 😄 Pronouns: He/His
 - 🏃 I'm a Fitness Enthusiast 💪
-- ⚡ Fun fact: I love to Travel 🌄 and spend hours listening to music everday.
+- ⚡ Fun fact: I love to Travel 🌄 and spend hours listening to music everday 🎧
+- 📷 I love clicking photos (check my [insta](https://www.instagram.com/ii_swarup/) 😜)
