@@ -6,6 +6,7 @@
 <a href="https://www.instagram.com/ii_swarup/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40" /></a>
 <a href="https://t.me/swarup1996saha"><img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" width="40" /></a>
 ### I'm a Student, Web Developer 🤖
+<img align="left" height="180" width="290" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 <!--
 **swarup1996saha/swarup1996saha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
