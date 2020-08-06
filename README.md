@@ -20,3 +20,7 @@ I'm a Web Developer 🤖 with a passion for Front-end Development, Design and Ba
 - 🏃 I'm a Fitness Enthusiast 💪
 - ⚡ Fun fact: I love to Travel 🌄 and spend hours listening to music everday 🎧
 - 📷 I love clicking photos (check my [insta](https://www.instagram.com/ii_swarup/) 😜)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/swarupsaha27?style=social)](https://twitter.com/swarupsaha27)
+[![Linkedin: swarup1996saha](https://img.shields.io/badge/-swarup1996saha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swarup1996saha/)](https://www.linkedin.com/in/swarup1996saha/)
+
