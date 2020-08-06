@@ -44,11 +44,10 @@ I'm a Web Developer 🤖 with a passion for Front-end Development, Design and Ba
 <img src="https://github-readme-stats.vercel.app/api?username=swarup1996saha&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="100%"/>
 </a>
 
-
 <a href="https://github.com/swarup1996saha/HTML-Tutorial">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=swarup1996saha&repo=HTML-Tutorial&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/swarup1996saha/SlideShow">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=swarup1996saha&repo=SlideShow&theme=radical" />
 </a>
 
