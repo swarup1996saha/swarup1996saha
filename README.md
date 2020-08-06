@@ -1,4 +1,4 @@
-### Hi there 👋 I,m Swarup Saha 👤
+## Hi there 👋 I,m Swarup Saha 👤
 <a href="https://www.linkedin.com/in/swarup1996saha/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" /></a>
 <a href="https://github.com/swarup1996saha"><img src="https://img.icons8.com/color/48/000000/github--v1.png" width="40" /></a>
 <a href="https://www.facebook.com/swarup.saha.37"><img src="https://img.icons8.com/color/48/000000/facebook.png" width="40" /></a>
@@ -24,3 +24,17 @@ I'm a Web Developer 🤖 with a passion for Front-end Development, Design and Ba
 [![Twitter Follow](https://img.shields.io/twitter/follow/swarupsaha27?style=social)](https://twitter.com/swarupsaha27)
 [![Linkedin: swarup1996saha](https://img.shields.io/badge/-swarup1996saha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swarup1996saha/)](https://www.linkedin.com/in/swarup1996saha/)
 
+---
+### **Languages and Tools:** 
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
