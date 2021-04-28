@@ -13,10 +13,10 @@
 I'm a Web Developer 🤖 with a passion for Front-end Development and Design. Whatever I have learned is through self-study and enrolling in various online programs/courses only. Being an <b>Internet enthusiast</b>, I love building beautifully designed, intuitive and functional applications & websites as I'm building a solid foundation in frontend technologies and languages. Ready to learn new skills and start new adventures.
 ***
 ### More about myself:
-- 🔭 I’m currently working on ***Geospatial mobile crowdsensing.***
-- 🌱 I’m currently learning ***everything*** 🤣
-- 🤔 I’m looking for help with ***Human Activity Recognition Model.***
-- 😄 Pronouns: He/His
+- 🔭 I’m currently working on ***Front-End Web Development***
+- 🌱 Currently improving my ***English, JS and CSS skills.*** Also I'm learning about ***ReactJS***
+- 👯 I'm happy to collaborate on any web development project
+- 🤔 I’m looking for jobs with any roles and any domains
 - 🏃 I'm a Fitness Enthusiast 💪
 - ⚡ Fun fact: I love to Travel 🌄 and spend hours listening to music everday 🎧
 - 📷 I love clicking photos (check my [insta](https://www.instagram.com/ii_swarup/) 😜)
@@ -25,19 +25,25 @@ I'm a Web Developer 🤖 with a passion for Front-end Development and Design. Wh
 [![Linkedin: swarup1996saha](https://img.shields.io/badge/-swarup1996saha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swarup1996saha/)](https://www.linkedin.com/in/swarup1996saha/)
 
 ---
-### **Languages and Tools:** 
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
+### **Tools I work upon: 🛠** 
+<p float="left">
+  <a href="https://en.wikipedia.org/wiki/HTML">
+<img alt="saha" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
+ </a>
+   <a href="https://en.wikipedia.org/wiki/CCS3">
+<img alt="saha" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
+  </a>
+ <a href="https://en.wikipedia.org/wiki/JavaScript">
+<img alt="saha" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
+  </a>
+  <a href="https://getbootstrap.com/">
+<img alt="saha" src="https://camo.githubusercontent.com/3523bd4e344ec5909336e3891b7511da62905e8953381f6fa69c11983e8fd9f6/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f626f6f7473747261702d706c61696e2e737667" width="40">
+  </a>
+ <a href="https://reactjs.org/">
+<img alt="saha" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
+  </a>
+</p>
+
 #
 
 <a href="https://github.com/swarup1996saha">
