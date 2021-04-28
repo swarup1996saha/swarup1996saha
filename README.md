@@ -63,8 +63,8 @@ I'm a Web Developer 🤖 with a passion for Front-end Development and Design. Wh
 </p>
 
 #
-<a align="left" href="https://github.com/swarup1996saha/SlideShow">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=swarup1996saha&repo=SlideShow&theme=radical" />
+<a align="left" href="https://github.com/swarup1996saha/HTML-Tutorial">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=swarup1996saha&repo=HTML-Tutorial&theme=radical" />
 </a>
 
 #
