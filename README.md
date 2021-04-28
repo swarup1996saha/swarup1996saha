@@ -42,14 +42,27 @@ I'm a Web Developer 🤖 with a passion for Front-end Development and Design. Wh
  <a href="https://reactjs.org/">
 <img alt="saha" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
   </a>
+   <a href="https://nodejs.org/en/">
+<img alt="saha" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
+  </a>
+   <a href="https://git-scm.com/">
+<img alt="saha" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
+  </a>
+  <a href="https://code.visualstudio.com/">
+<img alt="saha" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
+  </a>
+<a href="https://www.adobe.com/products/photoshop.html">
+<img alt="saha" src="https://devstickers.com/assets/img/pro/k176.png" width="40">
+  </a>
+  <a href="https://www.python.org/">
+<img alt="saha" src="https://camo.githubusercontent.com/d10e5aa8ba67f1eb109da4e98cd75adfa42df2e6019f8222cfa14c0088ac674d/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f707974686f6e2d6f726967696e616c2e737667" width="40">
+  </a>
+  <a href="https://www.mongodb.com/2">
+<img alt="saha" src="https://camo.githubusercontent.com/e643754982a9dba595811285c08c4667f1062a17d9e7eca8dd16b43995bf372b/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d6f6e676f64622d6f726967696e616c2d776f72646d61726b2e737667" width="40">
+  </a>
 </p>
 
 #
-
-<a href="https://github.com/swarup1996saha">
-<img src="https://github-readme-stats.vercel.app/api?username=swarup1996saha&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="100%"/>
-</a>
-
 
 <a href="https://github.com/swarup1996saha/SlideShow">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=swarup1996saha&repo=SlideShow&theme=radical" />
