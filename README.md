@@ -63,8 +63,14 @@ I'm a Web Developer 🤖 with a passion for Front-end Development and Design. Wh
 </p>
 
 #
-
-<a href="https://github.com/swarup1996saha/SlideShow">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=swarup1996saha&repo=SlideShow&theme=radical" />
+<a align="left" href="https://github.com/swarup1996saha/SlideShow">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=swarup1996saha&repo=SlideShow&theme=radical" />
 </a>
+
+#
+<p align="center">
+  
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&colorB=%234338dc&template=for-the-badge)
+
+</p>
 
