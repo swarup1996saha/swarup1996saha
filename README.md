@@ -1,15 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=joan&duration=2000&color=1F4690&lines=Welcome+to+Swarup's+Github+Profile)](https://git.io/typing-svg)
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'> I'm Swarup</h1>
-<a href="https://www.linkedin.com/in/swarup1996saha/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" /></a>
-<a href="https://github.com/swarup1996saha"><img src="https://img.icons8.com/color/48/000000/github--v1.png" width="40" /></a>
-<a href="https://www.facebook.com/swarup.saha.37"><img src="https://img.icons8.com/color/48/000000/facebook.png" width="40" /></a>
-<a href="https://twitter.com/swarupsaha27"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="40" /></a>
-<a href="https://www.instagram.com/ii_swarup/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40" /></a>
-<a href="https://t.me/swarup1996saha"><img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" width="40" /></a>
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'> I'm Swarup</h1>
 
-
-<h2 align="left">Welcome to my GitHub! 👋</h2>
 <img align="right" height="145" width="250" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
 I'm a Web Developer 🤖 with a passion for Front-end Development and Design. Whatever I have learned is through self-study and enrolling in various online programs/courses only. Being an <b>Internet enthusiast</b>, I love building beautifully designed, intuitive and functional applications & websites as I'm building a solid foundation in frontend technologies and languages. Ready to learn new skills and start new adventures.
@@ -18,13 +10,20 @@ I'm a Web Developer 🤖 with a passion for Front-end Development and Design. Wh
 - 👨🏽‍💻 I’m currently working as a System Engineer @ [Infosys](https://www.infosys.com/)
 - 🌱 Currently improving my ***English, JS and CSS skills.*** Also I'm learning about ***AngularJS***
 - 👯 I'm happy to collaborate on any web development project
-<!-- - 🤔 I’m looking for jobs with any roles and any domains -->
 - 🏃 I'm a Fitness Enthusiast 💪
 - ⚡ Fun fact: I love to Travel 🌄 and spend hours listening to music everday 🎧
 - 📷 I love clicking photos (check my [insta](https://www.instagram.com/ii_swarup/) 😜)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/swarupsaha27?style=social)](https://twitter.com/swarupsaha27)
 [![Linkedin: swarup1996saha](https://img.shields.io/badge/-swarup1996saha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swarup1996saha/)](https://www.linkedin.com/in/swarup1996saha/)
+---
+### Connect with me!
+<a href="https://www.linkedin.com/in/swarup1996saha/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" /></a>
+<a href="https://github.com/swarup1996saha"><img src="https://img.icons8.com/color/48/000000/github--v1.png" width="40" /></a>
+<a href="https://www.facebook.com/swarup.saha.37"><img src="https://img.icons8.com/color/48/000000/facebook.png" width="40" /></a>
+<a href="https://twitter.com/swarupsaha27"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="40" /></a>
+<a href="https://www.instagram.com/ii_swarup/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40" /></a>
+<a href="https://t.me/swarup1996saha"><img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" width="40" /></a>
 
 ---
 ### **Tools I work upon: 🛠** 
