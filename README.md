@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=joan&duration=2000&color=1F4690&lines=Welcome+to+Swarup's+Github+Profile)](https://git.io/typing-svg)
 
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px"> I,m Swarup Saha 👤
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'> I'm Swarup</h1>
 <a href="https://www.linkedin.com/in/swarup1996saha/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" /></a>
 <a href="https://github.com/swarup1996saha"><img src="https://img.icons8.com/color/48/000000/github--v1.png" width="40" /></a>
 <a href="https://www.facebook.com/swarup.saha.37"><img src="https://img.icons8.com/color/48/000000/facebook.png" width="40" /></a>
