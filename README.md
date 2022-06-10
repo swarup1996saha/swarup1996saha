@@ -5,7 +5,14 @@
 <img align="right" height="145" width="250" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
 I'm a Web Developer 🤖 with a passion for Front-end Development and Design. Whatever I have learned is through self-study and enrolling in various online programs/courses only. Being an <b>Internet enthusiast</b>, I love building beautifully designed, intuitive and functional applications & websites as I'm building a solid foundation in frontend technologies and languages. Ready to learn new skills and start new adventures.
-***
+<!-- ### Connect with me! 📬 -->
+<a href="https://www.linkedin.com/in/swarup1996saha/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" /></a>
+<a href="https://github.com/swarup1996saha"><img src="https://img.icons8.com/color/48/000000/github--v1.png" width="30" /></a>
+<a href="https://www.facebook.com/swarup.saha.37"><img src="https://img.icons8.com/color/48/000000/facebook.png" width="30" /></a>
+<a href="https://twitter.com/swarupsaha27"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="30" /></a>
+<a href="https://www.instagram.com/ii_swarup/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30" /></a>
+<a href="https://t.me/swarup1996saha"><img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" width="30" /></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ### Quick Fatcs
 - 👨🏽‍💻 I’m currently working as a System Engineer @ [Infosys](https://www.infosys.com/)
 - 🌱 Currently improving my ***English, JS and CSS skills.*** Also I'm learning about ***AngularJS***
@@ -14,16 +21,8 @@ I'm a Web Developer 🤖 with a passion for Front-end Development and Design. Wh
 - ⚡ Fun fact: I love to Travel 🌄 and spend hours listening to music everday 🎧
 - 📷 I love clicking photos (check my [insta](https://www.instagram.com/ii_swarup/) 😜)
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### Connect with me!📬
-<a href="https://www.linkedin.com/in/swarup1996saha/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" /></a>
-<a href="https://github.com/swarup1996saha"><img src="https://img.icons8.com/color/48/000000/github--v1.png" width="40" /></a>
-<a href="https://www.facebook.com/swarup.saha.37"><img src="https://img.icons8.com/color/48/000000/facebook.png" width="40" /></a>
-<a href="https://twitter.com/swarupsaha27"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="40" /></a>
-<a href="https://www.instagram.com/ii_swarup/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40" /></a>
-<a href="https://t.me/swarup1996saha"><img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" width="40" /></a>
-
----
 ### **Tools I work upon: 🛠** 
 <p float="left">
   <a href="https://en.wikipedia.org/wiki/HTML">
