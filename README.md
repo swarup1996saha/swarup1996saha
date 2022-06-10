@@ -14,10 +14,8 @@ I'm a Web Developer 🤖 with a passion for Front-end Development and Design. Wh
 - ⚡ Fun fact: I love to Travel 🌄 and spend hours listening to music everday 🎧
 - 📷 I love clicking photos (check my [insta](https://www.instagram.com/ii_swarup/) 😜)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/swarupsaha27?style=social)](https://twitter.com/swarupsaha27)
-[![Linkedin: swarup1996saha](https://img.shields.io/badge/-swarup1996saha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swarup1996saha/)](https://www.linkedin.com/in/swarup1996saha/)
----
-### Connect with me!
+
+### Connect with me!📬
 <a href="https://www.linkedin.com/in/swarup1996saha/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" /></a>
 <a href="https://github.com/swarup1996saha"><img src="https://img.icons8.com/color/48/000000/github--v1.png" width="40" /></a>
 <a href="https://www.facebook.com/swarup.saha.37"><img src="https://img.icons8.com/color/48/000000/facebook.png" width="40" /></a>
