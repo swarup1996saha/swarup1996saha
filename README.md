@@ -14,11 +14,11 @@
 
 I'm a Web Developer 🤖 with a passion for Front-end Development and Design. Whatever I have learned is through self-study and enrolling in various online programs/courses only. Being an <b>Internet enthusiast</b>, I love building beautifully designed, intuitive and functional applications & websites as I'm building a solid foundation in frontend technologies and languages. Ready to learn new skills and start new adventures.
 ***
-### More about myself:
-- 🔭 I’m currently working on ***Front-End Web Development***
-- 🌱 Currently improving my ***English, JS and CSS skills.*** Also I'm learning about ***ReactJS***
+### Quick Fatcs
+- 👨🏽‍💻 I’m currently working as a System Engineer @ [Infosys](https://www.infosys.com/)
+- 🌱 Currently improving my ***English, JS and CSS skills.*** Also I'm learning about ***AngularJS***
 - 👯 I'm happy to collaborate on any web development project
-- 🤔 I’m looking for jobs with any roles and any domains
+<!-- - 🤔 I’m looking for jobs with any roles and any domains -->
 - 🏃 I'm a Fitness Enthusiast 💪
 - ⚡ Fun fact: I love to Travel 🌄 and spend hours listening to music everday 🎧
 - 📷 I love clicking photos (check my [insta](https://www.instagram.com/ii_swarup/) 😜)
