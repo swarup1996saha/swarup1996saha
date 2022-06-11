@@ -24,7 +24,6 @@ I'm a Web Developer 🤖 with a passion for Front-end Development and Design. Wh
 ### **🛠 Tools I work upon** 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bootstrap)](https://skillicons.dev)
 
-
 #
 
 <p float="left">
