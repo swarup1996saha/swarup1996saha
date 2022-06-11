@@ -3,6 +3,7 @@
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'> I'm Swarup</h1>
 <img align="right" height="145" width="250" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 I'm a Web Developer 🤖 with a passion for Front-end Development and Design. Whatever I have learned is through self-study and enrolling in various online programs/courses only. Being an <b>Internet enthusiast</b>, I love building beautifully designed, intuitive and functional applications & websites as I'm building a solid foundation in frontend technologies and languages. Ready to learn new skills and start new adventures.
+
 <!-- ### Connect with me! 📬 -->
 <a href="https://www.linkedin.com/in/swarup1996saha/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" /></a>
 <a href="https://github.com/swarup1996saha"><img src="https://img.icons8.com/color/48/000000/github--v1.png" width="30" /></a>
