@@ -14,7 +14,7 @@ I'm a Web Developer 🤖 with a passion for Front-end Development and Design. Wh
 
 ### **⚡Quick Fatcs**
 - 👨🏽‍💻 I’m currently working as a System Engineer @ [Infosys](https://www.infosys.com/)
-- 🌱 Currently improving my ***English, JS and CSS skills.*** Also I'm learning about ***AngularJS***
+- 🌱 Currently improving my Frontend skills with Angular and **English**
 - 👯 I'm happy to collaborate on any web development project
 - 🏃 I'm a Fitness Enthusiast 💪
 - ⚡ Fun fact: I love to Travel 🌄 and spend hours listening to music everday 🎧
