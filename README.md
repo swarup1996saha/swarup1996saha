@@ -24,41 +24,8 @@ I'm a Web Developer 🤖 with a passion for Front-end Development and Design. Wh
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### **Tools I work upon: 🛠** 
-<p float="left">
-  <a href="https://en.wikipedia.org/wiki/HTML">
-<img alt="saha" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
- </a>
-   <a href="https://en.wikipedia.org/wiki/CCS3">
-<img alt="saha" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
-  </a>
- <a href="https://en.wikipedia.org/wiki/JavaScript">
-<img alt="saha" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
-  </a>
-  <a href="https://getbootstrap.com/">
-<img alt="saha" src="https://camo.githubusercontent.com/3523bd4e344ec5909336e3891b7511da62905e8953381f6fa69c11983e8fd9f6/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f626f6f7473747261702d706c61696e2e737667" width="40">
-  </a>
- <a href="https://reactjs.org/">
-<img alt="saha" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
-  </a>
-   <a href="https://nodejs.org/en/">
-<img alt="saha" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
-  </a>
-   <a href="https://git-scm.com/">
-<img alt="saha" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
-  </a>
-  <a href="https://code.visualstudio.com/">
-<img alt="saha" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
-  </a>
-<a href="https://www.adobe.com/products/photoshop.html">
-<img alt="saha" src="https://devstickers.com/assets/img/pro/k176.png" width="40">
-  </a>
-  <a href="https://www.python.org/">
-<img alt="saha" src="https://camo.githubusercontent.com/d10e5aa8ba67f1eb109da4e98cd75adfa42df2e6019f8222cfa14c0088ac674d/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f707974686f6e2d6f726967696e616c2e737667" width="40">
-  </a>
-  <a href="https://www.mongodb.com/2">
-<img alt="saha" src="https://camo.githubusercontent.com/e643754982a9dba595811285c08c4667f1062a17d9e7eca8dd16b43995bf372b/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d6f6e676f64622d6f726967696e616c2d776f72646d61726b2e737667" width="40">
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bootstrap)](https://skillicons.dev)
+
 
 #
 
