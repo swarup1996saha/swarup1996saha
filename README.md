@@ -23,7 +23,7 @@ I'm a Web Developer 🤖 with a passion for Front-end Development and Design. Wh
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### **🛠 Tools I work upon** 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bootstrap)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bootstrap)
 
 #
 
