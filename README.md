@@ -13,7 +13,7 @@ I'm a Web Developer 🤖 with a passion for Front-end Development and Design. Wh
 <a href="https://www.instagram.com/ii_swarup/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30" /></a>
 <a href="https://t.me/swarup1996saha"><img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" width="30" /></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-### Quick Fatcs
+### **Quick Fatcs:⚡**
 - 👨🏽‍💻 I’m currently working as a System Engineer @ [Infosys](https://www.infosys.com/)
 - 🌱 Currently improving my ***English, JS and CSS skills.*** Also I'm learning about ***AngularJS***
 - 👯 I'm happy to collaborate on any web development project
